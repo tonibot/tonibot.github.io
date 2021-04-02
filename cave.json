@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"roboland.json#exitCave"
+                 "value":"roboland.json#startCave"
                 }],
          "type":"tilelayer",
          "visible":true,
