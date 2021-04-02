@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"cave.json"
+                 "value":"cave.json#start"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -78,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"bathroom.json"
+                 "value":"bathroom.json#start"
                 }],
          "type":"tilelayer",
          "visible":false,
